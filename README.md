@@ -1,6 +1,6 @@
 # Skånetrafiken DirectLogin
 
-A script that will login to Skånetrafiken WiFi without needing to access their login portal. The portal is really slow and 50% of the time it does not show up.
+A script that will login to Skånetrafiken WiFi without needing to access their login portal. Skånetrafiken's portal is really slow and 50% of the time it does not show up, therefore it is a lot faster to access it without needing to use the portal.
 
 ## Installation
 
